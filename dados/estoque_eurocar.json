@@ -700,5 +700,23 @@
         "description": "",
         "main_image_url": "",
         "photos": []
+    },
+    {
+        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Nova/Saveiro-Rb-Mbvs/Volkswagen-Nova-Saveiro-Rb-Mbvs-2022-Londrina-Parana-6768472.html",
+        "name": "VOLKSWAGEN NOVA SAVEIRO RB MBVS 2021/2022 FLEX",
+        "brand": "VOLKSWAGEN",
+        "model_base": "NOVA SAVEIRO",
+        "version_details": "RB MBVS 2021/2022 FLEX",
+        "price": 56.5,
+        "year": "N/A",
+        "km": 0,
+        "transmission_type": "N/A",
+        "fuel_type": "N/A",
+        "color": "N/A",
+        "doors": 0,
+        "options": [],
+        "description": "",
+        "main_image_url": "",
+        "photos": []
     }
 ]
