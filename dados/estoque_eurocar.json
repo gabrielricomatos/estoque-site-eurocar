@@ -252,24 +252,6 @@
         "photos": []
     },
     {
-        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Se-16b/Ford-Ecosport-Se-16b-2016-Londrina-Parana-7143732.html",
-        "name": "FORD ECOSPORT SE 1.6B 2015/2016 FLEX",
-        "brand": "FORD",
-        "model_base": "ECOSPORT",
-        "version_details": "SE 1.6B 2015/2016 FLEX",
-        "price": 53.9,
-        "year": "N/A",
-        "km": 0,
-        "transmission_type": "N/A",
-        "fuel_type": "N/A",
-        "color": "N/A",
-        "doors": 0,
-        "options": [],
-        "description": "",
-        "main_image_url": "",
-        "photos": []
-    },
-    {
         "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Titnat-20/Ford-Ecosport-Titnat-20-2019-Londrina-Parana-7162956.html",
         "name": "FORD ECOSPORT TITNAT 2.0 2018/2019 FLEX",
         "brand": "FORD",
@@ -599,7 +581,7 @@
         "brand": "TOYOTA",
         "model_base": "COROLLA",
         "version_details": "XEI20FLEX 2013/2014 FLEX",
-        "price": 58.5,
+        "price": 58.9,
         "year": "N/A",
         "km": 0,
         "transmission_type": "N/A",
