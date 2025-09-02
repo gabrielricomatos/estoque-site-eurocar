@@ -468,6 +468,24 @@
         "photos": []
     },
     {
+        "link_details": "https://eurocarveiculos.com/carros/Hyundai/Hb20s/16m-Comf/Hyundai-Hb20s-16m-Comf-2019-Londrina-Parana-7298682.html",
+        "name": "HYUNDAI HB20S 1.6M COMF 2019/2019 FLEX",
+        "brand": "HYUNDAI",
+        "model_base": "HB20S",
+        "version_details": "1.6M COMF 2019/2019 FLEX",
+        "price": 53.9,
+        "year": "N/A",
+        "km": 0,
+        "transmission_type": "N/A",
+        "fuel_type": "N/A",
+        "color": "N/A",
+        "doors": 0,
+        "options": [],
+        "description": "",
+        "main_image_url": "",
+        "photos": []
+    },
+    {
         "link_details": "https://eurocarveiculos.com/carros/Jeep/Renegade/18-At/Jeep-Renegade-18-At-2019-Londrina-Parana-6602807.html",
         "name": "JEEP RENEGADE 1.8 AT 2019/2019 FLEX",
         "brand": "JEEP",
@@ -689,7 +707,7 @@
         "brand": "VOLKSWAGEN",
         "model_base": "POLO",
         "version_details": "HIGHLINE 200 TSI 1.0 FLEX 12V AUT 2019/2019 FLEX",
-        "price": 67.5,
+        "price": 65.9,
         "year": "N/A",
         "km": 0,
         "transmission_type": "N/A",
