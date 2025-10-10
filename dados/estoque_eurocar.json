@@ -736,23 +736,5 @@
         "description": "",
         "main_image_url": "",
         "photos": []
-    },
-    {
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/Af/Volkswagen-Virtus-Af-2020-Londrina-Parana-7403817.html",
-        "name": "VOLKSWAGEN VIRTUS AF 2019/2020 FLEX",
-        "brand": "VOLKSWAGEN",
-        "model_base": "VIRTUS",
-        "version_details": "AF 2019/2020 FLEX",
-        "price": 61.9,
-        "year": "N/A",
-        "km": 0,
-        "transmission_type": "N/A",
-        "fuel_type": "N/A",
-        "color": "N/A",
-        "doors": 0,
-        "options": [],
-        "description": "",
-        "main_image_url": "",
-        "photos": []
     }
 ]
