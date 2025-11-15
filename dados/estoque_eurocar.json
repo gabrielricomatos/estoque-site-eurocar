@@ -610,41 +610,5 @@
         "description": "",
         "main_image_url": "",
         "photos": []
-    },
-    {
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Saveiro/Ce-Cross-Ma/Volkswagen-Saveiro-Ce-Cross-Ma-2017-Londrina-Parana-7403551.html",
-        "name": "VOLKSWAGEN SAVEIRO CE CROSS MA 2016/2017 FLEX",
-        "brand": "VOLKSWAGEN",
-        "model_base": "SAVEIRO",
-        "version_details": "CE CROSS MA 2016/2017 FLEX",
-        "price": 62.9,
-        "year": "N/A",
-        "km": 0,
-        "transmission_type": "N/A",
-        "fuel_type": "N/A",
-        "color": "N/A",
-        "doors": 0,
-        "options": [],
-        "description": "",
-        "main_image_url": "",
-        "photos": []
-    },
-    {
-        "link_details": "https://eurocarveiculos.com/carros/Volkswagen/Virtus/16-Msi-Automatico/Volkswagen-Virtus-16-Msi-Automatico-2019-Londrina-Parana-7492624.html",
-        "name": "VOLKSWAGEN VIRTUS 1.6 MSI AUTOMATICO 2018/2019 FLEX",
-        "brand": "VOLKSWAGEN",
-        "model_base": "VIRTUS",
-        "version_details": "1.6 MSI AUTOMATICO 2018/2019 FLEX",
-        "price": 59.9,
-        "year": "N/A",
-        "km": 0,
-        "transmission_type": "N/A",
-        "fuel_type": "N/A",
-        "color": "N/A",
-        "doors": 0,
-        "options": [],
-        "description": "",
-        "main_image_url": "",
-        "photos": []
     }
 ]
