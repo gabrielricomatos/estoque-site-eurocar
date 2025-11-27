@@ -288,6 +288,24 @@
         "photos": []
     },
     {
+        "link_details": "https://eurocarveiculos.com/carros/Ford/Ecosport/Stm4at/Ford-Ecosport-Stm4at-2020-Londrina-Parana-7575085.html",
+        "name": "FORD ECOSPORT STM4AT 2019/2020 FLEX",
+        "brand": "FORD",
+        "model_base": "ECOSPORT",
+        "version_details": "STM4AT 2019/2020 FLEX",
+        "price": 65.9,
+        "year": "N/A",
+        "km": 0,
+        "transmission_type": "N/A",
+        "fuel_type": "N/A",
+        "color": "N/A",
+        "doors": 0,
+        "options": [],
+        "description": "",
+        "main_image_url": "",
+        "photos": []
+    },
+    {
         "link_details": "https://eurocarveiculos.com/carros/Ford/Fiesta/Ha-16l-Se/Ford-Fiesta-Ha-16l-Se-2015-Londrina-Parana-7544546.html",
         "name": "FORD FIESTA HA 1.6L SE 2015/2015 FLEX",
         "brand": "FORD",
